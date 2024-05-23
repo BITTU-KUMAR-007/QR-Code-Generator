@@ -1,0 +1,1 @@
+A QR code generator project using HTML, CSS, and JavaScript creates a web app where users input data, and JavaScript generates a QR code displayed on the page. HTML structures the interface, CSS styles it, and JavaScript handles data processing and QR code generati
